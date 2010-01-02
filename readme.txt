@@ -1,4 +1,4 @@
-=== Plugin Name: WoW Breaking News ===
+=== WoW Breaking News ===
 === Plugin URI: http://www.tixdesign.com/wow-breaking-news ===
 === Description: World of Warcraft Breaking News Displaying Widget ===
 === Author: StoffeTiX ===
@@ -15,6 +15,8 @@ Stable tag: trunk
 == Description ==
 
 This plugin will let you add a widget on your wordpress site displaying the in-game breaking news that you can se while logging in to World of Warcraft.
+
+(Only supports EU at the time)
 
 == Installation ==
 
@@ -34,20 +36,20 @@ None yet...
 
 == Screenshots ==
 
-Comming soon...
+1. A typical message
 
 == Changelog ==
 
-1.3
-- Added formating to the output message
-- Increased max output lenght to 2000 characters
+= 1.3 =
+* Added formating to the output message
+* Increased max output lenght to 2000 characters
 
-1.2
-- Tested for Wordpress 2.9.1
+= 1.2 =
+* Tested for Wordpress 2.9.1
 
-1.1
-- Added widget namechange option
-- Inreased the amount of caracters allowed to show in the widget
+= 1.1 =
+* Added widget namechange option
+* Inreased the amount of caracters allowed to show in the widget
 
-1.0
-- First release
+= 1.0 =
+* First release
